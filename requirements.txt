@@ -1,0 +1,13 @@
+
+pip install python-magic
+pip install tensorflow 
+pip install keras
+pip install sklearn
+pip install numpy
+pip install pandas
+pip install opencv-python
+pip install opencv-contrib-python
+pip install scipy
+pip install matplotlib
+pip install theano
+pip install scikit-learn
